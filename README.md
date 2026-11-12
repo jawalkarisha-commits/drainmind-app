@@ -1,4 +1,4 @@
-# 🌧️ DrainMind — Urban Waterlogging Risk Predictor
+# DrainMind — Urban Waterlogging Risk Predictor
 
 **Predict potential drainage blockages. Prioritize inspections. Help communities prepare for waterlogging.**
 
